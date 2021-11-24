@@ -11,7 +11,7 @@ public class CalcularPi {
       
   
     
-  System.out.println("Ingrese un número, cuanto más grande, mejor! (max: mil millones)");
+  System.out.println("Ingrese un nÃºmero, cuanto mÃ¡s grande, mejor! (max: mil millones)");
   Scanner sk = new Scanner(System.in);
   
   n= sk.nextInt();
@@ -20,10 +20,8 @@ public class CalcularPi {
   
    
   System.out.println(phi); 
-
-      
-    
   
+   
 
 	}
 
